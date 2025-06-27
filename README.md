@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-(Add link here if deployed on platforms like Render, Vercel, or Netlify)
+https://hirenet.onrender.com
 
 ---
 
