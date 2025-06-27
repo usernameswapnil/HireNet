@@ -1,6 +1,6 @@
 # HireNet
 
-(Run command "npm run dev" to see the project)
+(Run command "npm run start" to see the project)
 
 *HireNet* is a full-stack job portal platform that bridges the gap between *students* seeking jobs and *recruiters* posting them. Built using the *MERN stack*, the platform provides a seamless experience for job applications, resume uploads, and applicant tracking.
 
